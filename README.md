@@ -10,7 +10,7 @@
 
 ---
 
-👋 Hi, I'm Playmogyuer, and I'm a devoloper that it makes **Discord Bots** with <a class="python" href="https://www.python.org/">Python</a> and <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>. 
+👋 Hi, I'm Playmogyuer, and I'm a devoloper that it makes **Discord Bots** with <a class="python" href="https://www.python.org/">Python</a> and <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>. If you want more info visit my blog: https://playmosblog.neocities.org/ (**It's in Spanish**)
 
 <h2>What languages I use:</h2>
 

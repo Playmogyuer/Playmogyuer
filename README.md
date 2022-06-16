@@ -44,7 +44,7 @@ I want to be a professional programer, and tto do it I have to learn:
 - <a class="sql" href="https://en.wikipedia.org/wiki/SQL">SQL</a>
 - <a class="go" href="https://go.dev/">Go</a>
 
-And more
+And <a class="more" href="https://devmountain.com/blog/a-list-of-programming-languages-every-programmer-should-know-or-at-least-know-about/">more</a>
 
 <h2>Stats</h2>
 <div>

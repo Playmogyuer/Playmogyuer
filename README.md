@@ -21,7 +21,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 
-I started programming on June of 2020 doing my first Discord Bot in <a class="python" href="https://www.python.org/">Python</a>. Then, I wanto to try <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>, now I'm focus on HTML and CSS 
+I started programming on June of 2020 doing my first Discord Bot in <a class="python" href="https://www.python.org/">Python</a>. Then, I want to try <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>, now I'm focus on HTML and CSS 
 
 <h2>Future projects and goals:</h2>
 

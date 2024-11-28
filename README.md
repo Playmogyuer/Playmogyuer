@@ -10,41 +10,34 @@
 
 ---
 
-👋 Hi, I'm Playmogyuer, and I'm a devoloper that it makes **Discord Bots** with <a class="python" href="https://www.python.org/">Python</a> and <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>. If you want more info visit my blog: https://playmosblog.neocities.org/ (**It's in Spanish**)
+👋 Hi, I'm Playmogyuer, and I'm a developer who made **Discord Bots** with <a class="python" href="https://www.python.org/">Python</a> and <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>. IMPORTANT: I'm not an expert in any programming language. Also i have a website like a blog that I created years ago (2020), if anyone can see it (it's so simple and minimalist) and it's in Spanish. https://playmosblog.neocities.org/
 
-<h2>What languages I use:</h2>
+<h2>I know something about this programming languages:</h2>
 
-> <a href="https://www.python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a> 
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/000000/html-5.png"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/0080FF/css3.png"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/ios-filled/30/0175c5/visual-studio-logo.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 
-I started programming on June of 2020 doing my first Discord Bot in <a class="python" href="https://www.python.org/">Python</a>. Then, I wanto to try <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>, and, at the present, I keep using them. 
+I started programming on June of 2020 doing my first Discord Bot in <a class="python" href="https://www.python.org/">Python</a>. Then, I wanto to try <a class="nodejs" href="https://nodejs.org/en/">Node JS</a>, now I'm focus on HTML and CSS 
 
 <h2>Future projects and goals:</h2>
 
-<h3>Projects:</h3>
+<h3>Projects I made:</h3>
 
-Now I have two active projects:
-- <a class="huntercraft" href="https://www.huntercraft.ml/">HunterCraft</a>: is my own Minecraft server with two friends. (**The page is in Spanish**)
-- <a class="lossantosrp" href="https://lossantos-rp.tk/">Los Santos RP</a>: is my own GTA V Roleplay server. (**The page is in Spanish**)
+Between 2020 and 2022 I made two projects, that are incomplete and now I don't have plans to reactivate them.
+- <a class="huntercraft" href="https://www.huntercraft.ml/">HunterCraft</a>: This must be my own Minecraft server that I crated with two friends. (**The page is inactive**)
+- <a class="lossantosrp" href="https://lossantos-rp.tk/">Los Santos RP</a>: This must be my own GTA V Roleplay server. (**The page is inactive**)
 
 <h3>Goals:</h3>
 
-I want to be a professional programer, and tto do it I have to learn:
-- <a class="java" href="https://www.java.com/en/">Java</a>
-- <a class="typescript" href="https://www.typescriptlang.org/">TypeScript</a>
-- <a class="ruby" href="https://www.ruby-lang.org/en/">Ruby</a>
-- <a class="c" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>
-- <a class="c++" href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
-- <a class="c#" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a>
+I want to be a good programmer and I want to learn:
+- <a class="javascript" href="https://developer.mozilla.org/es/docs/Web/JavaScript">JavaScript</a>
 - <a class="php" href="https://www.php.net/">PHP</a>
 - <a class="sql" href="https://en.wikipedia.org/wiki/SQL">SQL</a>
-- <a class="go" href="https://go.dev/">Go</a>
 
-And <a class="more" href="https://devmountain.com/blog/a-list-of-programming-languages-every-programmer-should-know-or-at-least-know-about/">more</a>
 
 <h2>Stats</h2>
 <div>
